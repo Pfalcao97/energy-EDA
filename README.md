@@ -1,5 +1,7 @@
 # Exploratory Data Analysis on Energy Consumption
 
+![img](https://github.com/Pfalcao97/energy-EDA/blob/main/Graphics/capa.png)
+
 ## Data Source
 
 The data used for this project was mostly from [Our World in Data](https://ourworldindata.org/) databases, namely:
